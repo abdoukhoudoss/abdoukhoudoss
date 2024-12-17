@@ -31,23 +31,21 @@ Je suis un **Développeur Web Junior** passionné par la technologie et la créa
 #### 📍 **Application Météo Interactive**  
 - **Description** : Une application permettant d'afficher la météo en temps réel avec localisation, gestion des favoris, et intégration d'une carte interactive.  
 - **Technologies** : React.js, Node.js, API météo.  
-- 🚀 [Voir le projet sur GitHub](https://github.com/abdoukhoudoss)
+- 🚀 [Voir le projet sur GitHub](https://github.com/abdoukhoudoss/toulouse-p2-weatherly)
 
 #### 📍 **Application Helpi de bienveillance**  
 - **Description** : Helpi est une plateforme de mise en relation entre bénévoles et associations pour accomplir des missions humanitaires. Frontend en React, Backend en Node avec Express et la base de données en SQL.  
 - **Technologies** : React.js, Node.js, SQL.  
-- 🚀 [Voir le projet sur GitHub](https://github.com/abdoukhoudoss)
+- 🚀 [Voir le projet sur GitHub](https://github.com/abdoukhoudoss/helpi)
 
 #### 📍 **Application Wild-Eat**  
 - **Description** : Application web pour repérer les restaurants de notre Campus avec possibilité de filtrer, trier en fonction de paramètres essenteilles (distance, prix, pertinence, genre, notes).Les données ont été chargées depuis un fichier JSON local créé pour les besoins du projet.  
 - **Technologies** : HTML5, CSS3, Javascript, Json.  
-- 🚀 [Voir le projet sur GitHub](https://github.com/abdoukhoudoss)
+- 🚀 [Voir le projet sur GitHub](https://github.com/abdoukhoudoss/Wild-eats)
 
 #### 📍 **Application SoCake**  
 - **Description** : Boutique en ligne pour entreprise de vente de gateaux faits maison via le CMS Wordpress. Utilisation et configuration du plugin WooCommerce pour implémenter les modules e-commerce. Intégration des système de paiment avec Stripe, d'un système de sécurité avec certification SSL  
 - **Technologies** : Wordpress, WooCommerce, Stripe.  
-- 🚀 [Voir le projet sur GitHub](https://github.com/abdoukhoudoss)
-
 
 
 ---
