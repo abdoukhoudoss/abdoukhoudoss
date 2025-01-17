@@ -68,7 +68,7 @@ Je suis un **Développeur Web Junior** passionné par la technologie et la créa
   - Développement de sites web avec CMS comme WordPress et Drupal.  
   - Gestion des relations clients, devis, factures et management d'équipe.
  
-**Manager | DANY'S PIZZA** *(Restauration Rapide)* *(Décembre 2016 - Août 2022)*   
+- **Manager | DANY'S PIZZA** *(Restauration Rapide)* *(Décembre 2016 - Août 2022)*   
   - Gestion d'un commerce de quartier.
   - Gestion des stocks, normes HACCP. 
   - Gestion d'équipe, plannification.
