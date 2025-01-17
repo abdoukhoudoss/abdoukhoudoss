@@ -10,7 +10,10 @@
 Je suis un **Développeur Web Junior** passionné par la technologie et la création de solutions numériques modernes. Mon parcours est marqué par une formation à la Wild Code School et une passion pour les **technologies web**. Toujours en quête d'innovation, je mets à profit ma **rigueur**, mon **autonomie** et ma **créativité** pour réaliser des projets concrets.
 
 - 🎓 **Formation** : Titre Professionnel Développeur Web et Web Mobile *(BAC+2 - RNCP Niveau 5)* à la **Wild Code School Toulouse** *(2024 - 2025)*.
+- 🎓 **Formation** : Master Mécanique des fluides & Energetique à l' **Université Paul Sabatier Toulouse** *(2010)*.
+- 🎓 **Formation** : DEUG Prépa/Concours Science de l'Ingénieur Développeur (Mathématique / Informatique / Physique) à l' **Université Paul Sabatier Toulouse**. (2007)*.
 - 🏆 **Lauréat** : Prix "Talents de la Diversité 2023" - Mairie de Toulouse.
+- 🏆 **Lauréat** : Prix "plume d'or 2012" - Survie Midi-Pyrénées
 - 🌍 **Langues** : Français, Anglais, Wolof.
 - 🤝 **Bénévolat** : Secrétaire Général de l'Association Massalikoul Djinane Touba Toulouse, Social et humanitaire 
 
@@ -61,9 +64,19 @@ Je suis un **Développeur Web Junior** passionné par la technologie et la créa
   - Accueil clients, gestion des réservations, et traitement des mails.  
   - Gestion de caisse et facturation.
 
-- **CEO | K-TECH Company** *(Programmation Informatique)*  
+- **CEO | K-TECH Company** *(Programmation Informatique)* *(Mars 2017 - Décembre 2020)*
   - Développement de sites web avec CMS comme WordPress et Drupal.  
   - Gestion des relations clients, devis, factures et management d'équipe.
+ 
+**Manager | DANY'S PIZZA** *(Restauration Rapide)* *(Décembre 2016 - Août 2022)*   
+  - Gestion d'un commerce de quartier.
+  - Gestion des stocks, normes HACCP. 
+  - Gestion d'équipe, plannification.
+
+- **Chargé de Cours | Université Paul Sabatier** *(Mathématiques & Physique)* *(Octobre 2011 - Juin 2013)*
+  - Mathématiques : Analyse numérique, Algébre linéaire.
+  - Physique : Mécanique du point, Mécanique des fluides, Mécanique des milieux continus.
+
 
 ---
 
