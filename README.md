@@ -28,6 +28,11 @@ Je suis un **Développeur Web Junior** passionné par la technologie et la créa
 
 ### 🌟 Projets Réalisés
 
+#### 📍 **Application Wildy Gamy**  
+- **Description** : Une application pour une salle d'arcade avec un jeu en ligne permettant de gagner des lots et de les échanger avec des recompenses de notre salle. Nous avons implémenter trois niveaux (visiteur, utilisateur, administrateur) pour améliorer l'expérience utilisateur avec une gestion de l'authentification et la sécurité.  
+- **Technologies** : React.js, Node.js/Express, Mysql  
+- 🚀 [Voir le projet sur GitHub]([https://github.com/WildCodeSchool-2024-09/js-toulouse-wildy-gamy])
+
 #### 📍 **Application Météo Interactive**  
 - **Description** : Une application permettant d'afficher la météo en temps réel avec localisation, gestion des favoris, et intégration d'une carte interactive.  
 - **Technologies** : React.js, Node.js, API météo.  
