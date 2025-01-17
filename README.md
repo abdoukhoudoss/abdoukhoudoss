@@ -11,7 +11,7 @@ Je suis un **Développeur Web Junior** passionné par la technologie et la créa
 
 - 🎓 **Formation** : Titre Professionnel Développeur Web et Web Mobile *(BAC+2 - RNCP Niveau 5)* à la **Wild Code School Toulouse** *(2024 - 2025)*.
 - 🎓 **Formation** : Master Mécanique des fluides & Energetique à l' **Université Paul Sabatier Toulouse** *(2010)*.
-- 🎓 **Formation** : DEUG Prépa/Concours Science de l'Ingénieur Développeur (Mathématique / Informatique / Physique) à l' **Université Paul Sabatier Toulouse**. (2007)*.
+- 🎓 **Formation** : DEUG Prépa/Concours Science de l'Ingénieur Développeur (Mathématique / Informatique / Physique) à l' **Université Paul Sabatier Toulouse**. *(2007)*.
 - 🏆 **Lauréat** : Prix "Talents de la Diversité 2023" - Mairie de Toulouse.
 - 🏆 **Lauréat** : Prix "plume d'or 2012" - Survie Midi-Pyrénées
 - 🌍 **Langues** : Français, Anglais, Wolof.
